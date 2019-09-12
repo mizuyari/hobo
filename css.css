@@ -1,7 +1,5 @@
 @charset "UTF-8";
 @import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
-
-// レイアウト
 * { 
     color: ivory; 
     font-family: 'Noto Sans JP', sans-serif; 
@@ -21,12 +19,10 @@ li {
     font-size:10px; 
     font-weight:normal;
     padding: 3px 0; } 
-input {                         // 入力フォーム
+input {
     color:#333; 
     border:1px #333 solid; } 
-
-//　投稿
-.put {                          // 基本
+.put {
     padding: 1.5em 2em; 
     margin: 0 0 2px 0; 
     background: ivory; 
@@ -37,7 +33,7 @@ input {                         // 入力フォーム
     font-weight:normal;
     margin: 0; 
     padding: 0; } 
-.dot {                          // リスト
+.dot {
     padding: 11 15 10 13px;
     margin: 5 0.7px; 
     border-left:6px khaki solid; } 
@@ -46,11 +42,11 @@ input {                         // 入力フォーム
     font-size:11px; 
     font-weight:bold; 
     margin: 0 0 10 0px; } 
-.dott {                         // リスト(単品) 
+.dott {
     padding: 1.5 0 1 10px; 
     margin: 2 0px; 
     border-left:6px khaki solid; } 
-.spr {                          // つかいどきがくるかどうか 
+.spr {
     position: relative; 
     margin: -0.5em auto; 
     margin-right:30px; 
@@ -73,14 +69,12 @@ input {                         // 入力フォーム
     background-color: #ccc; 
     opacity: 0.3;
     transform: rotate( -5deg ); }
-
-// 補助
-h1 {                            // 見出し
+h1 {
     margin:4 0pt; 
     color:#333; 
     font-size:14.5px; 
-    text-decoration: underline;"
-blockquote {                    // 引用
+    text-decoration: underline;" }
+blockquote {
     position: relative; 
     margin:5 6 10 6px;
     padding: 10px 10px 10px 40px; 
