@@ -1,0 +1,113 @@
+@charset "UTF-8";
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+
+// レイアウト
+* { 
+    color: ivory; 
+    font-family: 'Noto Sans JP', sans-serif; 
+    font-weight: bold; 
+    border-color:transparent; }
+body { 
+    font-size: 10.5px; 
+    margin:45 25px; 
+    background: linear-gradient(#1fddff, #ff4b1f) fixed; } 
+a { 
+    color: gold; 
+    text-decoration: none; } 
+ul { 
+    margin: 0 0 0 18px; padding:0px; } 
+li { 
+    color:#333; 
+    font-size:10px; 
+    font-weight:normal;
+    padding: 3px 0; } 
+input {                         // 入力フォーム
+    color:#333; 
+    border:1px #333 solid; } 
+
+//　投稿
+.put {                          // 基本
+    padding: 1.5em 2em; 
+    margin: 0 0 2px 0; 
+    background: ivory; 
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32); } 
+.put p { 
+    color: #333; 
+    font-size:10px; 
+    font-weight:normal;
+    margin: 0; 
+    padding: 0; } 
+.dot {                          // リスト
+    padding: 11 15 10 13px;
+    margin: 5 0.7px; 
+    border-left:6px khaki solid; } 
+.dot p { 
+    color: #333; 
+    font-size:11px; 
+    font-weight:bold; 
+    margin: 0 0 10 0px; } 
+.dott {                         // リスト(単品) 
+    padding: 1.5 0 1 10px; 
+    margin: 2 0px; 
+    border-left:6px khaki solid; } 
+.spr {                          // つかいどきがくるかどうか 
+    position: relative; 
+    margin: -0.5em auto; 
+    margin-right:30px; 
+    margin-left:30px; 
+    padding: 15 15 12 15px; 
+    color: #333; 
+    font-size:10px; 
+    font-weight:normal;
+    background-color: palegreen; 
+    transform: rotate( 1.5deg ); 
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.32); } 
+.spr::before { 
+    position: absolute; 
+    top: -1em; 
+    left: 40%;
+    height: 20px; 
+    width: 55px;
+    content: ""; 
+    border: 1px solid #ccc; 
+    background-color: #ccc; 
+    opacity: 0.3;
+    transform: rotate( -5deg ); }
+
+// 補助
+h1 {                            // 見出し
+    margin:4 0pt; 
+    color:#333; 
+    font-size:14.5px; 
+    text-decoration: underline;"
+blockquote {                    // 引用
+    position: relative; 
+    margin:5 6 10 6px;
+    padding: 10px 10px 10px 40px; 
+    box-sizing: border-box; 
+    font-style: italic; 
+    background: #efefef; 
+    color: #555; } 
+blockquote:before { 
+    display: inline-block; 
+    position: absolute; 
+    top: 12px; 
+    left: 10px; 
+    content: "\f10d"; 
+    font-family: FontAwesome; 
+    color: #cfcfcf; 
+    font-size: 20px; 
+    line-height: 1; 
+    font-weight: 900; } 
+blockquote p { 
+    font-weight: normal; 
+    padding: 0;
+    margin: 12px 0; 
+    line-height: 1.7; } 
+blockquote cite { 
+    padding:2 0 0 0px; 
+    display: block;
+    text-align: right;
+    color: #888888;
+    font-size: 0.9em; 
+    font-weight:normal; }
