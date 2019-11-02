@@ -19,13 +19,14 @@ h1 {
     font-size: 1.25em; 
     position: relative;
     display: inline-block;
-    padding: 0 45px;}
+    padding: 0 45px;
+    margin: 0 auto; }
 h1:before, h1:after {
     content: '';
     position: absolute;
     top: 50%;
     display: inline-block;
-    width: 44px;
+    width: 30px;
     height: 2px;
     background-color: ivory; 
     -webkit-transform: rotate(-60deg);
