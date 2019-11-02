@@ -7,7 +7,6 @@
     background: #222; 
     border-color:transparent; }
 a { 
-    color: #222;
     text-decoration: none; }
 p {
     padding: 0 1em;
@@ -51,7 +50,7 @@ h1:before, h1:after {
   display: inline-block;
   width: 44px;
   height: 2px;
-  background-color: ibory; 
+  background-color: ivory; 
   -webkit-transform: rotate(-60deg);
   transform: rotate(-60deg);
 }
