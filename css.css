@@ -6,12 +6,12 @@
     font-family: 'Sawarabi Mincho', sans-serif; 
     border-color:transparent; }
 body { 
-    font-size: 13px; 
-    margin:45 25px; 
-    background: linear-gradient(#1fddff, #ff4b1f) fixed; } 
+    font-size: 0.75em; 
+    margin:1em; 
+    background: #222; } 
 a { 
-    color: gold; 
-    text-decoration: none; } 
+    color: ivory; 
+    border-bottom:0.75pt ivory dashed; } 
 ul { 
     margin: 0 0 0 18px; padding:0px; } 
 li { 
@@ -19,9 +19,6 @@ li {
     font-size:10px; 
     font-weight:normal;
     padding: 3px 0; } 
-input {
-    color:#333; 
-    border:1px #333 solid; } 
 #put {
     padding: 1.5em 2em; 
     margin: 0 0 2px 0; 
