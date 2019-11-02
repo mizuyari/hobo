@@ -55,7 +55,8 @@ blockquote:before {
     line-height: 1; 
     font-weight: 900; } 
 blockquote p { 
-    font-weight: normal; 
+    color: transparent;
+    text-shadow: 0px 0px 10px #005500;
     padding: 0;
     margin: 12px 0; 
     line-height: 1.7; } 
