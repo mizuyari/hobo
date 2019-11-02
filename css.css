@@ -9,11 +9,12 @@
 a { 
     text-decoration: none; } 
 ul { 
-    margin: 1 1.25em;
-    padding: 0 1.25em; } 
+    } 
 li { 
     } 
 #dot {
+    margin: 1 1.25em;
+    padding: 0 1.25em; 
     border-left:6px khaki solid; } 
 #spr {
     position: relative; 
