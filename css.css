@@ -9,7 +9,7 @@ a {
     text-decoration: none; } 
 ul { 
     margin: 1 0em;
-    padding: 0 1em; } 
+    padding: 0 10em; } 
 li { 
     } 
 #dot {
@@ -39,7 +39,7 @@ li {
     transform: rotate( -5deg ); }
 h1 {
     margin: 0.25 0em; 
-    font-size: 1em; 
+    font-size: 0.75em; 
     text-decoration: underline; }
 blockquote {
     position: relative; 
