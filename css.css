@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/earlyaccess/sawarabimincho.css);
 @import url(//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min);
 * { 
+    color: ivory;
     font-family: 'Sawarabi Mincho', sans-serif; 
     border-color:transparent; }
  
@@ -73,6 +74,5 @@ blockquote cite {
     font-size: 0.9em; 
     font-weight:normal; }
 body { 
-    color: ivory;
     margin: 1em; 
     background: #222; }
