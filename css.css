@@ -4,10 +4,9 @@
 * { 
     color: ivory; 
     font-family: 'Sawarabi Mincho', sans-serif; 
-    font-weight: bold; 
     border-color:transparent; }
 body { 
-    font-size: 10.5px; 
+    font-size: 13px; 
     margin:45 25px; 
     background: linear-gradient(#1fddff, #ff4b1f) fixed; } 
 a { 
