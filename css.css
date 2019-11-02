@@ -8,10 +8,10 @@
 a { 
     text-decoration: none; } 
 ul { 
-    margin: 0 0 0 1em;
-    padding: 0; } 
+    margin: 1 0em;
+    padding: 0 1em; } 
 li { 
-    padding: 3px 0; } 
+    } 
 #dot {
     padding: 1.5 0 1 10px; 
     margin: 2 0px; 
