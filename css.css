@@ -9,8 +9,8 @@
 a { 
     text-decoration: none; } 
 ul { 
-    margin: 1 0em;
-    padding: 0 10em; } 
+    margin: 1 1.25em;
+    padding: 0 1.25em; } 
 li { 
     } 
 #dot {
@@ -40,7 +40,7 @@ li {
     transform: rotate( -5deg ); }
 h1 {
     margin: 0.25 0em; 
-    font-size: 2em; 
+    font-size: 1.25em; 
     text-decoration: underline; }
 blockquote {
     position: relative; 
@@ -57,7 +57,7 @@ blockquote:before {
     left: 10px; 
     content: "\f10d"; 
     font-family: FontAwesome;
-    color: #cfcfcf;
+    color: #222;
     font-size: 20px; 
     line-height: 1; 
     font-weight: 900; } 
