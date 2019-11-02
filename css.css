@@ -5,10 +5,7 @@
     color: ivory; 
     font-family: 'Sawarabi Mincho', sans-serif; 
     border-color:transparent; }
-body { 
-    font-size: 0.75em; 
-    margin:1em; 
-    background: #222; } 
+ 
 a { 
     text-decoration: none; } 
 ul { 
@@ -78,3 +75,7 @@ blockquote cite {
     color: #888888;
     font-size: 0.9em; 
     font-weight:normal; }
+body { 
+    font-size: 0.75em; 
+    margin: 1em; 
+    background: #222; }
