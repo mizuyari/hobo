@@ -7,10 +7,12 @@
     border-color:transparent; }
  
 a { 
-    text-decoration: none; } 
+    margin: 0.75em;
+    background-color: khaki;
+    text-decoration: none; }
 p {
     padding: 1em;
-    line-height: 130%; }
+    line-height: 180%; }
 ul { 
     } 
 li { 
