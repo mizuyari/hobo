@@ -12,8 +12,8 @@ body {
 a { 
     text-decoration: none; } 
 ul { 
-    margin: 0 0 0 18px;
-    padding: 0px; } 
+    margin: 0 0 0 1em;
+    padding: 0; } 
 li { 
     padding: 3px 0; } 
 #dot {
@@ -44,8 +44,8 @@ li {
     opacity: 0.3;
     transform: rotate( -5deg ); }
 h1 {
-    margin:4 0pt; 
-    font-size: 0.875em; 
+    margin: 0.25 0em; 
+    font-size: 1em; 
     text-decoration: underline; }
 blockquote {
     position: relative; 
