@@ -11,23 +11,18 @@ a {
 p {
     padding: 0 1em;
     line-height: 180%; }
-#dot {
-    margin: 1.25 0em;
-    padding: 0.25 0.75em; 
-    border-left:6px khaki solid; } 
 h1 {
     font-size: 1.25em; 
     position: relative;
     display: inline-block;
-    padding: 0 45px;
-    margin: 0 auto; }
+    padding: 0 45px; }
 h1:before, h1:after {
     content: '';
     position: absolute;
     top: 50%;
     display: inline-block;
     width: 30px;
-    height: 2px;
+    height: 1px;
     background-color: ivory; 
     -webkit-transform: rotate(-60deg);
     transform: rotate(-60deg);}
