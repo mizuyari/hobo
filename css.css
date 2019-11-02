@@ -10,36 +10,13 @@ body {
     margin:1em; 
     background: #222; } 
 a { 
-    color: ivory; 
-    border-bottom:0.75pt ivory dashed; } 
+    text-decoration: none; } 
 ul { 
-    margin: 0 0 0 18px; padding:0px; } 
+    margin: 0 0 0 18px;
+    padding: 0px; } 
 li { 
-    color:#333; 
-    font-size:10px; 
-    font-weight:normal;
     padding: 3px 0; } 
-#put {
-    padding: 1.5em 2em; 
-    margin: 0 0 2px 0; 
-    background: ivory; 
-    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32); } 
-#put p { 
-    color: #333; 
-    font-size:10px; 
-    font-weight:normal;
-    margin: 0; 
-    padding: 0; } 
 #dot {
-    padding: 11 15 10 13px;
-    margin: 5 0.7px; 
-    border-left:6px khaki solid; } 
-#dot p { 
-    color: #333; 
-    font-size:11px; 
-    font-weight:bold; 
-    margin: 0 0 10 0px; } 
-#dott {
     padding: 1.5 0 1 10px; 
     margin: 2 0px; 
     border-left:6px khaki solid; } 
@@ -68,8 +45,7 @@ li {
     transform: rotate( -5deg ); }
 h1 {
     margin:4 0pt; 
-    color:#333; 
-    font-size:14.5px; 
+    font-size: 0.875em; 
     text-decoration: underline; }
 blockquote {
     position: relative; 
@@ -77,8 +53,8 @@ blockquote {
     padding: 10px 10px 10px 40px; 
     box-sizing: border-box; 
     font-style: italic; 
-    background: #efefef; 
-    color: #555; }
+    background: #EEE; 
+    color: #888; }
 blockquote:before {
     display: inline-block; 
     position: absolute; 
