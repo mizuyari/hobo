@@ -1,9 +1,9 @@
 @charset "UTF-8";
-@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+@import url(https://fonts.googleapis.com/css?family=Sawarabi+Mincho);
 @import url(//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
 * { 
     color: ivory; 
-    font-family: 'Noto Sans JP', sans-serif; 
+    font-family: 'Sawarabi Mincho', sans-serif; 
     font-weight: bold; 
     border-color:transparent; }
 body { 
