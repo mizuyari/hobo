@@ -13,8 +13,8 @@ ul {
 li { 
     } 
 #dot {
-    margin: 1 1.25em;
-    padding: 0 1.25em; 
+    margin: 1.25 0em;
+    padding: 0.25 0.75em; 
     border-left:6px khaki solid; } 
 #spr {
     position: relative; 
