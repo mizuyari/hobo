@@ -8,6 +8,9 @@
  
 a { 
     text-decoration: none; } 
+p {
+    padding: 1em;
+    line-height: 130%; }
 ul { 
     } 
 li { 
