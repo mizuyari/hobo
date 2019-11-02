@@ -4,8 +4,8 @@
 * { 
     color: ivory;
     font-family: 'Sawarabi Mincho', sans-serif; 
+    background: #222; 
     border-color:transparent; }
- 
 a { 
     color: #222;
     background-color: khaki;
@@ -13,10 +13,6 @@ a {
 p {
     padding: 1em;
     line-height: 180%; }
-ul { 
-    } 
-li { 
-    } 
 #dot {
     margin: 1.25 0em;
     padding: 0.25 0.75em; 
@@ -79,5 +75,3 @@ blockquote cite {
     color: #888888;
     font-size: 0.9em; 
     font-weight:normal; }
-body { 
-    background: #222; }
