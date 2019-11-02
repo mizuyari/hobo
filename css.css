@@ -11,7 +11,7 @@ a {
     background-color: khaki;
     text-decoration: none; }
 p {
-    padding: 1em;
+    padding: 0 1em;
     line-height: 180%; }
 #dot {
     margin: 1.25 0em;
