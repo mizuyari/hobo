@@ -15,3 +15,48 @@
     display:inline;
     background: linear-gradient(transparent 70%, khaki 30%);
 } 
+.box25{
+    position: relative;
+    background: #fff0cd;
+    box-shadow: 0px 0px 0px 5px #fff0cd;
+    border: dashed 2px white;
+    padding: 0.2em 0.5em;
+    color: #454545;
+}
+.memo:after{
+    position: absolute;
+    content: '';
+    right: -7px;
+    top: -7px;
+    border-width: 0 15px 15px 0;
+    border-style: solid;
+    border-color: lightgreen #fff lightgreen;
+    box-shadow: -1px 1px 1px rgba(0, 0, 0, 0.15);
+}
+.memo p {
+    margin: 0; 
+    padding: 0;
+}#spr {
+    position: relative; 
+    margin: -0.5em auto; 
+    margin-right:30px; 
+    margin-left:30px; 
+    padding: 15 15 12 15px; 
+    color: #333; 
+    font-size:10px; 
+    font-weight:normal;
+    background-color: khaki; 
+    transform: rotate( 1.5deg ); 
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.32); 
+} #spr::before { 
+    position: absolute; 
+    top: -1em; 
+    left: 40%;
+    height: 20px; 
+    width: 55px;
+    content: ""; 
+    border: 1px solid #ccc; 
+    background-color: #ccc; 
+    opacity: 0.3;
+    transform: rotate( -5deg ); 
+}
