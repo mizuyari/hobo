@@ -16,8 +16,8 @@
     background: linear-gradient(transparent 70%, khaki 30%);
 } .memo {
     position: relative;
-    background: #6FCD9F;
-    box-shadow: 0px 0px 0px 5px #6FCD9F;
+    background: #90EE90;
+    box-shadow: 0px 0px 0px 5px #90EE90;
     border: dashed 2px white;
     padding: 0.2em 0.5em;
     margin:0 2em;
@@ -37,13 +37,12 @@
     margin: 0; 
     padding: 0;
 } .xx {
- margin: 0;
- padding: 1em;
- width: 90%;
- color: #555555; 
- background-color: #fff; 
- box-shadow: 0 0 5px 5px #FFFF66, 0 0 5px 3px #FFFF66 inset; 
- border-radius: 10px;
+    margin: 1em;
+    padding: 1em;
+    width: 90%;
+    background-color: #fffafa; 
+    box-shadow: 0 0 5px 5px #EEE8AA, 0 0 5px 3px #EEE8AA inset; 
+    border-radius: 10px;
 } #spr {
     position: relative; 
     margin: -0.5em auto; 
