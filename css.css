@@ -32,7 +32,7 @@
     border-color: white lightyellow white;
     box-shadow: -1px 1px 1px rgba(0, 0, 0, 0.15);
 } .xx {
-    margin: 1em 2em;
+    margin: 1em 0.75em;
     padding: 1.5em;
     background-color: #fffafa; 
     box-shadow: 0 0 5px 5px #ffffaa, 0 0 5px 5px #ffffaa inset; 
