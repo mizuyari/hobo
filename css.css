@@ -63,6 +63,7 @@
     right:0; 
 } .hk {
   height: 10px;
+  color: navy;
   background-image: linear-gradient(
     hsla(0, 0%, 100%, 1),
     hsla(0, 0%, 100%, 1) 33.33%,
