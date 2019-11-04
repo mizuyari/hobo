@@ -35,17 +35,20 @@
   height: 1em;
   line-height: 1;
   text-align: center; 
-} .hk {
-  height: 10px;
-  color: navy;
-  background-image: linear-gradient(
-    hsla(0, 0%, 100%, 1),
-    hsla(0, 0%, 100%, 1) 33.33%,
-    hsla(0, 0%, 100%, 0) 33.33%,
-    hsla(0, 0%, 100%, 0) 100%);
-  background-size: 100% 3px;
-  width: 40px;
-} h2 {
+} 
+.box h3{
+    text-align:center;
+    position:relative;
+    top:80px;
+}
+.box {
+    width:70%;
+    height:200px;
+    background:#FFF;
+    margin:40px auto;
+}
+h2 {
+  background:#FFF;
   position: relative;
 } h2:after {
   z-index: -1;
