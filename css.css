@@ -10,6 +10,7 @@
     text-decoration: none; 
 } p {
     padding: 0 1em;
+    margin: 0;
     line-height: 180%; 
 } ol {
   counter-reset:number;
