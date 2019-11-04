@@ -23,6 +23,11 @@ h1::after {
   width: 100%;
   height: 10px;
   background-color: #b6f0fc;
+} .xx {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    border: dashed 3px #000000;
 } #spr {
     position: relative; 
     margin: -0.5em auto; 
