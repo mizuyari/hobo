@@ -36,6 +36,14 @@
     background: #6FCD9F;
     margin: 0; 
     padding: 0;
+} .xx {
+ margin: 2em auto;
+ padding: 1em;
+ width: 90%;
+ color: #555555; 
+ background-color: #fff; 
+ box-shadow: 0 0 5px 5px #FFFF66, 0 0 5px 3px #FFFF66 inset; 
+ border-radius: 10px;
 } #spr {
     position: relative; 
     margin: -0.5em auto; 
