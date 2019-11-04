@@ -32,9 +32,9 @@
     border-color: mediumseagreen lightyellow mediumseagreen;
     box-shadow: -1px 1px 1px rgba(0, 0, 0, 0.15);
 } .xx {
-    margin: 1em 2em auto;
+    margin: 1em 2em;
     padding: 1.5em;
-    width: 80%;
+    width: 100%;
     background-color: #fffafa; 
     box-shadow: 0 0 5px 5px #ffffaa, 0 0 5px 5px #ffffaa inset; 
     border-radius: 10px;
