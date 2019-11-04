@@ -43,6 +43,7 @@
     position: relative;
     display: inline-block;
     padding: 0 45px; 
+    margin: 0 auto;
 } h2:before, h1:after { 
     content: '';
     position: absolute;
@@ -54,9 +55,9 @@
     -webkit-transform: rotate(-60deg);
     transform: rotate(-60deg);
 } h2:before {
-    left:auto; 
+    left:0; 
 } h2:after {
-    right:auto; 
+    right:0; 
 } h3 {
   position: relative;
   padding: 5px 26px 5px 42px;
