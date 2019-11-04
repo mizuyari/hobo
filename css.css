@@ -20,9 +20,9 @@
 } ol li {
   position: relative;
   padding: 0.5em;
-  line-height: 1.5em;
+  line-height: 1em;
   background: white;
-  border-left : solid 35px navy;
+  border-left : solid 1em navy;
   margin-bottom: 5px; 
 } ol li:before {
   position: absolute;
@@ -31,7 +31,7 @@
   display:inline-block;
   color: white;
   font-weight:bold;
-  font-size: 1em;
+  font-size: 0.75em;
   top: 50%;
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
