@@ -12,6 +12,7 @@
     padding: 0 1em;
     margin: 0;
     line-height: 180%; 
+    background: pink;
 } ol {
   counter-reset:number;
   list-style-type: none!important;
