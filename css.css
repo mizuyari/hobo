@@ -14,29 +14,26 @@
     font-size: 1.5em;
     display:inline;
     background: linear-gradient(transparent 70%, khaki 30%);
-} 
-.box25{
+} .memo {
     position: relative;
-    background: #fff0cd;
+    background: lightgreen;
     box-shadow: 0px 0px 0px 5px #fff0cd;
     border: dashed 2px white;
     padding: 0.2em 0.5em;
     color: #454545;
-}
-.memo:after{
+} .memo:after {
     position: absolute;
     content: '';
     right: -7px;
     top: -7px;
     border-width: 0 15px 15px 0;
     border-style: solid;
-    border-color: lightgreen #fff lightgreen;
+    border-color: mediumseagreen #fff mediumseagreen;
     box-shadow: -1px 1px 1px rgba(0, 0, 0, 0.15);
-}
-.memo p {
+}.memo p {
     margin: 0; 
     padding: 0;
-}#spr {
+} #spr {
     position: relative; 
     margin: -0.5em auto; 
     margin-right:30px; 
