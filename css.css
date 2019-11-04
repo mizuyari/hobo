@@ -20,6 +20,7 @@
     box-shadow: 0px 0px 0px 5px #6FCD9F;
     border: dashed 2px white;
     padding: 0.2em 0.5em;
+    margin:0 2em;
     color: #454545;
 } .memo:after {
     position: absolute;
