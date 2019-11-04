@@ -8,32 +8,6 @@
 } a { 
     color: navy;
     text-decoration: none; 
-} ol {
-    counter-reset:number;
-    list-style-type: none!important;
-    padding:0;
-} ol li {
-    position: relative;
-    padding: 0.5em;
-    line-height: 1em;
-    background: white;
-    border-left : solid 1.5em navy;
-    margin-bottom: 5px; 
-} ol li:before {
-    position: absolute;
-    counter-increment: number;
-    content: counter(number);
-    display:inline-block;
-    color: white;
-    font-weight:bold;
-    font-size: 0.75em;
-    top: 50%;
-    -webkit-transform: translateY(-50%);
-    transform: translateY(-50%);
-    width: 1.5em;
-    height: 1em;
-    line-height: 1;
-    text-align: center; 
 } h2 {
   position: relative;
   padding: 0 .4em .1em;
