@@ -1,15 +1,16 @@
 @charset "UTF-8";
 @import url(https://fonts.googleapis.com/earlyaccess/sawarabimincho.css);
 @import url(//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min);
-body { 
+* {
     font-family: 'Sawarabi Mincho', sans-serif; 
+} body { 
     line-height: 170%;
     background: lightyellow;  
 } a { 
     color: navy;
     text-decoration: none; 
 } ol {
-    margin: 0.5em;
+    margin: 0;
 } li {
     background-color: #fffafa;
 } h1 {
