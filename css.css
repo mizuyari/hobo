@@ -58,6 +58,8 @@
     transform: rotate(-60deg);
 } h1:before {
     left:0; 
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
 } h1:after {
     right: 0; 
 } h2 {
