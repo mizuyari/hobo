@@ -6,7 +6,7 @@
     background: lightyellow; 
     border-color:transparent; 
 } a { 
-    color: #f1f8ff;
+    color: navy;
     text-decoration: none; 
 } p {
     padding: 0 1em;
@@ -29,7 +29,7 @@
   display:inline-block;
   color: white;
   font-weight:bold;
-  font-size: 15px;
+  font-size: 0.75em;
   top: 50%;
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
