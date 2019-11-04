@@ -13,10 +13,11 @@ p {
     line-height: 180%; }
 h1 {
     font-size: 1.25em; 
+    text-align: center;
     position: relative;
     display: inline-block;
     padding: 0 45px; }
-h1:before, h1:after {
+h1:before, h1:after { 
     content: '';
     position: absolute;
     top: 50%;
