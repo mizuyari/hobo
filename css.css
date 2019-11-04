@@ -8,6 +8,8 @@
 } a { 
     color: navy;
     text-decoration: none; 
+} ul,ol {
+    background-color: #fffafa;
 } h1 {
     margin-top: 0;
     font-size: 1.5em;
