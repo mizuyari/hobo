@@ -3,16 +3,12 @@
 @import url(//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min);
 * { 
     font-family: 'Sawarabi Mincho', sans-serif; 
+    line-height: 170%;
     background: lightyellow; 
     border-color:transparent; 
 } a { 
     color: navy;
     text-decoration: none; 
-} p {
-    padding: 0 1em;
-    margin: 0;
-    line-height: 180%; 
-    background-color: pink;
 } ol {
   counter-reset:number;
   list-style-type: none!important;
@@ -22,7 +18,7 @@
   padding: 0.5em;
   line-height: 1em;
   background: white;
-  border-left : solid 1em navy;
+  border-left : solid 1.5em navy;
   margin-bottom: 5px; 
 } ol li:before {
   position: absolute;
