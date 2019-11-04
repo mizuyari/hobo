@@ -13,10 +13,6 @@
     font-size: 1em;
     display:inline;
     background: linear-gradient(transparent 70%, tomato 30%);
-    } #xx {
-    padding: 0.5em 1em;
-    margin: 2em 0;
-    border: dashed 1px #000000;
 } #spr {
     position: relative; 
     margin: -0.5em auto; 
