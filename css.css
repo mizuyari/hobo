@@ -26,6 +26,7 @@
     content: '';
     right: -7px;
     top: -7px;
+    background: #6FCD9F;
     border-width: 0 15px 15px 0;
     border-style: solid;
     border-color: mediumseagreen lightyellow mediumseagreen;
