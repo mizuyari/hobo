@@ -16,8 +16,8 @@
     background: linear-gradient(transparent 70%, khaki 30%);
 } .memo {
     position: relative;
-    background: lightgreen;
-    box-shadow: 0px 0px 0px 5px #fff0cd;
+    background: 6FCD9F;
+    box-shadow: 0px 0px 0px 5px 6FCD9F;
     border: dashed 2px white;
     padding: 0.2em 0.5em;
     color: #454545;
@@ -31,6 +31,7 @@
     border-color: mediumseagreen #fff mediumseagreen;
     box-shadow: -1px 1px 1px rgba(0, 0, 0, 0.15);
 }.memo p {
+    background: 6FCD9F;
     margin: 0; 
     padding: 0;
 } #spr {
