@@ -8,10 +8,13 @@
 } a { 
     color: navy;
     text-decoration: none; 
-} h2 {
+} ul, ol {
+    background-color: transparent;
+}h1 {
   position: relative;
   padding: 0 .4em .1em;
-} h2::after {
+}
+h1::after {
   position: absolute;
   bottom: 0;
   left: 0;
