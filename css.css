@@ -10,10 +10,10 @@
     color: navy;
     text-decoration: none; 
 } ul {
-    padding: 0;
-} h1 {
+    padding-left: 1.5em;
+} H1 {
     margin-top: 0;
-    marigin-bottom:15px;
+    marigin-bottom:3em;
     font-size: 1.5em;
     display:inline;
     background: linear-gradient(transparent 70%, khaki 30%);
