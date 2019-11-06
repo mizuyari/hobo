@@ -9,11 +9,11 @@
 } a { 
     color: navy;
     text-decoration: none; 
-} li {
-    margin: 0;
-    background-color: #fffafa;
+} ul {
+    padding: 0;
 } h1 {
     margin-top: 0;
+    marigin-bottom:15px;
     font-size: 1.5em;
     display:inline;
     background: linear-gradient(transparent 70%, khaki 30%);
