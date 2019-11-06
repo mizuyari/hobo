@@ -12,11 +12,12 @@
 } ul {
     padding-left: 1.5em;
 } H1 {
-    margin-top: 0;
-    marigin-bottom:3em;
     font-size: 1.5em;
     display:inline;
     background: linear-gradient(transparent 70%, khaki 30%);
+} .wrap {
+    margin-top: 0;
+    marigin-bottom:3em; 
 } .memo {
     position: relative;
     background: #99CC99;
@@ -41,27 +42,4 @@
     background-color: #fffafa; 
     box-shadow: 0 0 5px 5px #ffffaa, 0 0 5px 5px #ffffaa inset; 
     border-radius: 10px;
-} #spr {
-    position: relative; 
-    margin: -0.5em auto; 
-    margin-right:30px; 
-    margin-left:30px; 
-    padding: 15 15 12 15px; 
-    color: #333; 
-    font-size:10px; 
-    font-weight:normal;
-    background-color: khaki; 
-    transform: rotate( 1.5deg ); 
-    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.32); 
-} #spr::before { 
-    position: absolute; 
-    top: -1em; 
-    left: 40%;
-    height: 20px; 
-    width: 55px;
-    content: ""; 
-    border: 1px solid #ccc; 
-    background-color: #ccc; 
-    opacity: 0.3;
-    transform: rotate( -5deg ); 
 }
